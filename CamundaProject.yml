@@ -1,0 +1,7 @@
+camunda:
+  bpm:
+    admin-user:
+      id: demo
+      first-name: Tima
+      last-name: Zaytsev
+      password: demo1
